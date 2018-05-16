@@ -3,7 +3,7 @@
     "version": "4.2.0",
     "props": {
       "location": "path",
-      "appName": "fronApp",
+      "appName": "frontApp",
       "target": [
         "web"
       ],
@@ -12,7 +12,7 @@
       "auth": true,
       "lazy": true,
       "angulartics": false,
-      "projectName": "fron-app",
+      "projectName": "front-app",
       "packageManager": "npm",
       "mobile": []
     }

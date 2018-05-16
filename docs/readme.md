@@ -1,4 +1,4 @@
-# fronApp
+# frontApp
 
 Welcome to the project documentation!
 
